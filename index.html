@@ -48,6 +48,9 @@
         <label for="to">Nach: </label>
         <input type="text" id="to" name="to" required><br><br>
 
+        <label for="umsteiger">Umsteiger auch zählen: </label>
+        <input type="checkbox" id="umsteiger" name="umsteiger" value="umsteiger"><br><br>
+
         <button type="button" onclick="calculateTravelers()">Berechnen</button>
     </form>
 
@@ -98,10 +101,16 @@
                     out[name] = 0;
                 }
             }
+            
+            var umsteiger = document.getElementById("umsteiger");
+            var value = 1;
+            if (umsteiger.checked == true) {
+                value = 2;
+            }
 
             for (let i = 0; i < fromTravelers.dtv; i++) {
                 const choice = possibilities[Math.floor(Math.random() * possibilities.length)];
-                out[choice] += 2;
+                out[choice] += value;
             }
 
             return Object.fromEntries(
