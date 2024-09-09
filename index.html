@@ -36,10 +36,53 @@
         button:hover {
             background-color: #454545;
         }
+
+        h1 {
+            float: right;
+            margin: 5px;
+        }
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333;
+        }
+
+        li {
+            float: left;
+        }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        li a:hover {
+            background-color: #222;
+        }
+
+        .active {
+            background-color: #111;
+        }
+
+        #umsteiger {
+            accent-color: #555;
+        }
     </style>
 </head>
 <body>
-    <h1>RailFlowCH</h1>
+    <ul>
+        <li><a class="active" href="index.html">Strecke</a></li>
+        <li><a href="station.html">Bahnhof</a></li>
+        <h1>RailFlowCH</h1>
+      </ul>
+
+    <br>
 
     <form id="traveler-form">
         <label for="from">Von: </label>
