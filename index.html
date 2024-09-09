@@ -188,6 +188,28 @@
             const travelers = getTravelers(from, to, data);
             document.getElementById("result").innerHTML = `Geschätzte Anzahl Reisende zwischen ${from} und ${to}: ${travelers}`;
         }
+
+        function loadFromUrlParams() {
+            const params = new URLSearchParams(window.location.search);
+            const from = params.get('from');
+            const to = params.get('to');
+
+            if (from) {
+                document.getElementById("from").value = from;
+            }
+
+            if (to) {
+                document.getElementById("to").value = to;
+            }
+
+            // Automatically calculate if both 'from' and 'to' are present
+            if (from && to) {
+                calculateTravelers();
+            }
+        }
+
+        // Call the function to load parameters when the page loads
+        window.onload = loadFromUrlParams;
     </script>
 </body>
 </html>
