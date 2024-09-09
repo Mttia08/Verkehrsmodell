@@ -237,6 +237,19 @@
             table.appendChild(tbody);
             document.getElementById("result").appendChild(table);
         }
+        
+        function loadFromUrlParams() {
+            const params = new URLSearchParams(window.location.search);
+            const station = params.get('station');
+
+            // Automatically calculate if station is present
+            if (station) {
+                calculateTravelers();
+            }
+        }
+
+        // Call the function to load parameters when the page loads
+        window.onload = loadFromUrlParams;
     </script>
 </body>
 </html>
