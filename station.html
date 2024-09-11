@@ -122,6 +122,7 @@
         // Declare a global variable to store data
         let data = {};
         var options = null;
+        var fernverkehr = ["Genève Aéroport", "Genève", "Nyon", "Morges", "Lausanne", "Vevey", "Montreux", "Aigle", "Bex", "St-Maurice", "Martigny", "Sion", "Sierre/Siders", "Leuk", "Visp", "Brig", "Yverdon-les-Bains", "Neuchâtel", "La Chaux-de-Fonds", "Biel/Bienne", "Palézieux", "Romont FR", "Fribourg/Freiburg", "Bern", "Grenchen Süd", "Grenchen Nord", "Solothurn", "Oensingen", "Olten", "Moutier", "Delémont", "Laufen", "Basel SBB", "Liestal", "Burgdorf", "Herzogenbuchsee", "Langenthal", "Zofingen", "Sursee", "Luzern", "Thun", "Spiez", "Interlaken West", "Interlaken Ost", "Rheinfelden", "Stein-Säckingen", "Frick", "Aarau", "Lenzburg", "Brugg AG", "Baden", "Zürich HB", "Schaffhausen", "Thalwil", "Baar", "Zug", "Rotkreuz", "Arth-Goldau", "Bellinzona", "Lugano", "Locarno", "Chiasso", "Zürich Flughafen", "Winterthur", "Frauenfeld", "Weinfelden", "Amriswil", "Romanshorn", "St. Gallen", "Rorschach", "St. Margrethen", "Buchs SG", "Pfäffikon SZ", "Ziegelbrücke", "Sargans", "Bad Ragaz", "Chur"];
 
         // Fetch the data and store it in the global variable
         async function getData() {
@@ -200,7 +201,14 @@
 
             for (const name in data) {
                 if (name !== station) {
-                    const distance = haversine(fromTravelers.coords, data[name].coords);
+                    var distance = haversine(fromTravelers.coords, data[name].coords);
+                    if (!(fernverkehr.includes(name))) {
+                        distance = 2*distance;
+                    }
+
+                    if (!(fernverkehr.includes(station))) {
+                        distance = Math.pow(distance, 2);
+                    }
                     const value = Math.floor(data[name].dtv / distance);
                     const list_ = Array(value).fill(name);
                     possibilities = possibilities.concat(list_);
