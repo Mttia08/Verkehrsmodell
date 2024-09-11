@@ -37,6 +37,11 @@
             background-color: #454545;
         }
 
+        button:active {
+            transform: scale(0.98); 
+            box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24); 
+        }
+
         h1 {
             float: right;
             margin: 9px;
@@ -114,6 +119,8 @@
 
         <button type="button" onclick="calculateTravelers()">Berechnen</button>
     </form>
+
+    <br>
 
     <h2 id="ergebnis">Ergebnis</h2>
     <div id="result"></div>
@@ -202,6 +209,9 @@
             for (const name in data) {
                 if (name !== station) {
                     var distance = haversine(fromTravelers.coords, data[name].coords);
+                    if (distance == 0) {
+                        continue;
+                    }
                     if (!(fernverkehr.includes(name))) {
                         distance = 2*distance;
                     }
@@ -237,6 +247,23 @@
             return boarders;
         }
 
+        function getTravelers(from, to, data) {
+            const dir1 = getAllTravelers(from, data)[to];
+            const dir2 = getAllTravelers(to, data)[from];
+            return Math.floor((dir1 + dir2) / 2);
+        }
+
+        function getFinalTravelers(station, data) {
+            const travelers = getAllTravelers(station, data);
+            let out = {};
+            for (var i = 0; i < 10; i++) {
+                out[Object.keys(travelers)[i]] = getTravelers(station, Object.keys(travelers)[i], data);
+            }
+            return Object.fromEntries(
+                Object.entries(out).sort(([, a], [, b]) => b - a)
+            );
+        }
+
         // Function to handle the calculation when the form is submitted
         async function calculateTravelers() {
             const station = document.getElementById("station").value;
@@ -256,7 +283,7 @@
             document.getElementById("result").innerHTML = `Ein- und Aussteiger am Bahnhof ${station}: ${boarders}`;
             document.getElementById("result").innerHTML += "<br><br><h3>Top 10 Ziele</h3>";
 
-            const travelers = getAllTravelers(station, data);
+            const travelers = getFinalTravelers(station, data);
             var table = document.createElement("table");
             var tbody = document.createElement("tbody");
 
