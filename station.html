@@ -39,30 +39,30 @@
 
         h1 {
             float: right;
-            margin: 5px;
+            margin: 9px;
         }
 
-        ul {
+        nav {
             list-style-type: none;
             margin: 0;
             padding: 0;
             overflow: hidden;
             background-color: #333;
+            margin-top: -10px;
+            margin-left: -10px;
+            margin-right: -10px;
         }
 
-        li {
-            float: left;
-        }
-
-        li a {
+        nav a {
             display: block;
             color: white;
             text-align: center;
             padding: 14px 16px;
             text-decoration: none;
+            float: left;
         }
 
-        li a:hover {
+        nav a:hover {
             background-color: #222;
         }
 
@@ -90,14 +90,18 @@
             padding: 5px;
             border: 1px solid #fff;
         }
+
+        h2 {
+            display: none;
+        }
     </style>
 </head>
 <body>
-    <ul>
-        <li><a href="index.html">Strecke</a></li>
-        <li><a class="active" href="station.html">Bahnhof</a></li>
+    <nav>
+        <a href="index.html">Strecke</a>
+        <a class="active" href="station.html">Bahnhof</a>
         <h1>RailFlowCH</h1>
-      </ul>
+    </nav>
 
     <br>
 
@@ -111,16 +115,61 @@
         <button type="button" onclick="calculateTravelers()">Berechnen</button>
     </form>
 
-    <h2>Ergebnis</h2>
+    <h2 id="ergebnis">Ergebnis</h2>
     <div id="result"></div>
 
     <script>
-        // Function to fetch data from the JSON file
+        // Declare a global variable to store data
+        let data = {};
+        var options = null;
+
+        // Fetch the data and store it in the global variable
         async function getData() {
             const response = await fetch("https://raw.githubusercontent.com/Mttia08/Verkehrsmodell/main/ein_aussteiger.json");
-            const data = await response.json();
-            return data;
+            data = await response.json();
+            const sortedData = Object.entries(data)
+                .sort(([, a], [, b]) => b.dtv - a.dtv)
+                .reduce((acc, [key, value]) => ({ ...acc, [key]: value }), {});
+            options = Object.keys(sortedData);
         }
+
+        var previousValue = "";
+
+        function autocomplete(element_id) {
+            var input = document.getElementById(element_id)
+            var value = input.value;
+
+            var nonMarkedText = value.substring(0, input.selectionStart);
+
+            var deleting = nonMarkedText.length <= previousValue.length;
+
+            previousValue = nonMarkedText;
+
+            for (let i = 0; i < options.length; i++) {
+                const option = options[i];
+                if (option.toLowerCase().startsWith(value.toLowerCase())) {
+                    const remainingText = option.substring(value.length);
+                
+                    if (deleting) {
+                        input.value = value;
+                    } else {
+                        input.value = value + remainingText;
+                        input.setSelectionRange(value.length, input.value.length);
+                    }
+                    break;
+                }
+            }
+        }
+
+        // Add event listeners for autocomplete after DOM content is loaded
+        document.addEventListener("DOMContentLoaded", function () {
+            document.getElementById("station").addEventListener("input", function() {
+                autocomplete('station');
+            });
+
+            // Load the station data
+            getData();
+        });
 
         // Implementing the Haversine formula in JavaScript
         function haversine(coords1, coords2) {
@@ -189,14 +238,13 @@
                 return;
             }
 
-            const data = await getData();
-
             if (!(station in data)) {
                 document.getElementById("result").innerHTML = "Ungültiger Bahnhof.";
                 return;
             }
             
             const boarders = getBoarders(station, data);
+            document.getElementById("ergebnis").style = "display: block;";
             document.getElementById("result").innerHTML = `Ein- und Aussteiger am Bahnhof ${station}: ${boarders}`;
             document.getElementById("result").innerHTML += "<br><br><h3>Top 10 Ziele</h3>";
 
@@ -237,20 +285,25 @@
             table.appendChild(tbody);
             document.getElementById("result").appendChild(table);
         }
-        
-        function loadFromUrlParams() {
-            const params = new URLSearchParams(window.location.search);
-            const station = params.get('station');
 
-            // Automatically calculate if station is present
-            if (station) {
-                document.getElementById("station").value = station;
+        // Event listener to handle Enter key press on input fields
+        document.getElementById("station").addEventListener("keydown", function(event) {
+            if (event.key === "Enter") {
+                event.preventDefault();
                 calculateTravelers();
             }
-        }
+        });
 
-        // Call the function to load parameters when the page loads
-        window.onload = loadFromUrlParams;
+        document.getElementById("umsteiger").addEventListener("keydown", function(event) {
+            if (event.key === "Enter") {
+                event.preventDefault();
+                calculateTravelers();
+            }
+        });
+
+        if (!(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent))) {
+            document.getElementById("station").focus();
+        }
     </script>
 </body>
 </html>
