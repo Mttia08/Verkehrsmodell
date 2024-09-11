@@ -37,6 +37,11 @@
             background-color: #454545;
         }
 
+        button:active {
+            transform: scale(0.98); 
+            box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24); 
+        }
+
         h1 {
             float: right;
             margin: 9px;
@@ -100,6 +105,8 @@
 
         <button type="button" id="search" onclick="calculateTravelers()">Berechnen</button>
     </form>
+
+    <br>
 
     <h2 id="ergebnis">Ergebnis</h2>
     <div id="result"></div>
@@ -191,6 +198,9 @@
             for (const name in data) {
                 if (name !== station) {
                     var distance = haversine(fromTravelers.coords, data[name].coords);
+                    if (distance == 0) {
+                        continue;
+                    }
                     if (!(fernverkehr.includes(name))) {
                         distance = 2*distance;
                     }
