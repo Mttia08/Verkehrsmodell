@@ -1,0 +1,3317 @@
+[
+  {
+    "from": "Zug",
+    "to": "St. Gallen",
+    "travelers": 787
+  },
+  {
+    "from": "Uri",
+    "to": "Fribourg",
+    "travelers": 42
+  },
+  {
+    "from": "Zug",
+    "to": "Zug",
+    "travelers": 54148
+  },
+  {
+    "from": "Ticino",
+    "to": "Schwyz",
+    "travelers": 624
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Aargau",
+    "travelers": 244
+  },
+  {
+    "from": "Valais",
+    "to": "Valais",
+    "travelers": 234503
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 4974
+  },
+  {
+    "from": "Aargau",
+    "to": "Zurich",
+    "travelers": 82223
+  },
+  {
+    "from": "Obwalden",
+    "to": "Fribourg",
+    "travelers": 44
+  },
+  {
+    "from": "Schwyz",
+    "to": "Obwalden",
+    "travelers": 356
+  },
+  {
+    "from": "Geneva",
+    "to": "Bern",
+    "travelers": 3186
+  },
+  {
+    "from": "Zug",
+    "to": "Vaud",
+    "travelers": 111
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Basel-Landschaft",
+    "travelers": 125
+  },
+  {
+    "from": "Undefined",
+    "to": "Schwyz",
+    "travelers": 2146
+  },
+  {
+    "from": "Solothurn",
+    "to": "Geneva",
+    "travelers": 193
+  },
+  {
+    "from": "Zug",
+    "to": "Solothurn",
+    "travelers": 344
+  },
+  {
+    "from": "Undefined",
+    "to": "Vaud",
+    "travelers": 1055
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Schaffhausen",
+    "travelers": 98
+  },
+  {
+    "from": "Valais",
+    "to": "Schaffhausen",
+    "travelers": 35
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Thurgau",
+    "travelers": 33274
+  },
+  {
+    "from": "Zurich",
+    "to": "St. Gallen",
+    "travelers": 43841
+  },
+  {
+    "from": "Bern",
+    "to": "Neuchâtel",
+    "travelers": 18535
+  },
+  {
+    "from": "Obwalden",
+    "to": "Basel-Stadt",
+    "travelers": 141
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Basel-Landschaft",
+    "travelers": 30
+  },
+  {
+    "from": "Jura",
+    "to": "Zurich",
+    "travelers": 206
+  },
+  {
+    "from": "Undefined",
+    "to": "Bern",
+    "travelers": 974
+  },
+  {
+    "from": "Thurgau",
+    "to": "Vaud",
+    "travelers": 91
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Zug",
+    "travelers": 31
+  },
+  {
+    "from": "Aargau",
+    "to": "Solothurn",
+    "travelers": 21992
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Geneva",
+    "travelers": 1918
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Zurich",
+    "travelers": 517
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Valais",
+    "travelers": 1166
+  },
+  {
+    "from": "Lucerne",
+    "to": "Neuchâtel",
+    "travelers": 207
+  },
+  {
+    "from": "Uri",
+    "to": "Valais",
+    "travelers": 495
+  },
+  {
+    "from": "Thurgau",
+    "to": "Grisons",
+    "travelers": 722
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Geneva",
+    "travelers": 44
+  },
+  {
+    "from": "Solothurn",
+    "to": "Zug",
+    "travelers": 341
+  },
+  {
+    "from": "Ticino",
+    "to": "Solothurn",
+    "travelers": 386
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Undefined",
+    "travelers": 60
+  },
+  {
+    "from": "Bern",
+    "to": "Basel-Landschaft",
+    "travelers": 4252
+  },
+  {
+    "from": "Lucerne",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 86
+  },
+  {
+    "from": "Uri",
+    "to": "Nidwalden",
+    "travelers": 1197
+  },
+  {
+    "from": "Geneva",
+    "to": "Valais",
+    "travelers": 3228
+  },
+  {
+    "from": "Aargau",
+    "to": "Geneva",
+    "travelers": 249
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Zurich",
+    "travelers": 1259
+  },
+  {
+    "from": "Lucerne",
+    "to": "Schwyz",
+    "travelers": 10302
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Ticino",
+    "travelers": 73
+  },
+  {
+    "from": "Geneva",
+    "to": "Undefined",
+    "travelers": 80
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Zug",
+    "travelers": 221
+  },
+  {
+    "from": "Zurich",
+    "to": "Neuchâtel",
+    "travelers": 813
+  },
+  {
+    "from": "Vaud",
+    "to": "Ticino",
+    "travelers": 256
+  },
+  {
+    "from": "Valais",
+    "to": "Thurgau",
+    "travelers": 151
+  },
+  {
+    "from": "Vaud",
+    "to": "Grisons",
+    "travelers": 82
+  },
+  {
+    "from": "Geneva",
+    "to": "Vaud",
+    "travelers": 55451
+  },
+  {
+    "from": "Uri",
+    "to": "Basel-Stadt",
+    "travelers": 130
+  },
+  {
+    "from": "Jura",
+    "to": "Fribourg",
+    "travelers": 295
+  },
+  {
+    "from": "Fribourg",
+    "to": "Vaud",
+    "travelers": 41320
+  },
+  {
+    "from": "Lucerne",
+    "to": "Fribourg",
+    "travelers": 848
+  },
+  {
+    "from": "Bern",
+    "to": "Zug",
+    "travelers": 1010
+  },
+  {
+    "from": "Zurich",
+    "to": "Vaud",
+    "travelers": 2911
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Schaffhausen",
+    "travelers": 303
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Basel-Stadt",
+    "travelers": 38
+  },
+  {
+    "from": "Ticino",
+    "to": "Geneva",
+    "travelers": 200
+  },
+  {
+    "from": "Uri",
+    "to": "Obwalden",
+    "travelers": 385
+  },
+  {
+    "from": "Aargau",
+    "to": "Lucerne",
+    "travelers": 20627
+  },
+  {
+    "from": "Thurgau",
+    "to": "Basel-Landschaft",
+    "travelers": 174
+  },
+  {
+    "from": "Jura",
+    "to": "Basel-Landschaft",
+    "travelers": 785
+  },
+  {
+    "from": "Lucerne",
+    "to": "Zug",
+    "travelers": 15584
+  },
+  {
+    "from": "Zurich",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 526
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Lucerne",
+    "travelers": 13423
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Valais",
+    "travelers": 163
+  },
+  {
+    "from": "Jura",
+    "to": "Neuchâtel",
+    "travelers": 3011
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Geneva",
+    "travelers": 144
+  },
+  {
+    "from": "Fribourg",
+    "to": "Basel-Stadt",
+    "travelers": 644
+  },
+  {
+    "from": "Thurgau",
+    "to": "Thurgau",
+    "travelers": 84047
+  },
+  {
+    "from": "Ticino",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 32
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 47
+  },
+  {
+    "from": "Zurich",
+    "to": "Zug",
+    "travelers": 20918
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Thurgau",
+    "travelers": 163
+  },
+  {
+    "from": "Vaud",
+    "to": "Geneva",
+    "travelers": 55399
+  },
+  {
+    "from": "Obwalden",
+    "to": "Geneva",
+    "travelers": 41
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Lucerne",
+    "travelers": 5685
+  },
+  {
+    "from": "Obwalden",
+    "to": "Undefined",
+    "travelers": 49
+  },
+  {
+    "from": "Fribourg",
+    "to": "Lucerne",
+    "travelers": 875
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "St. Gallen",
+    "travelers": 1239
+  },
+  {
+    "from": "Vaud",
+    "to": "Zug",
+    "travelers": 114
+  },
+  {
+    "from": "Geneva",
+    "to": "Neuchâtel",
+    "travelers": 1999
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Ticino",
+    "travelers": 27
+  },
+  {
+    "from": "Ticino",
+    "to": "Basel-Stadt",
+    "travelers": 534
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Bern",
+    "travelers": 595
+  },
+  {
+    "from": "Obwalden",
+    "to": "Thurgau",
+    "travelers": 39
+  },
+  {
+    "from": "Zug",
+    "to": "Thurgau",
+    "travelers": 182
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Ticino",
+    "travelers": 114
+  },
+  {
+    "from": "Obwalden",
+    "to": "St. Gallen",
+    "travelers": 115
+  },
+  {
+    "from": "Aargau",
+    "to": "Obwalden",
+    "travelers": 581
+  },
+  {
+    "from": "Grisons",
+    "to": "Zug",
+    "travelers": 363
+  },
+  {
+    "from": "Ticino",
+    "to": "Basel-Landschaft",
+    "travelers": 270
+  },
+  {
+    "from": "Uri",
+    "to": "Schwyz",
+    "travelers": 2489
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Fribourg",
+    "travelers": 1269
+  },
+  {
+    "from": "Grisons",
+    "to": "Geneva",
+    "travelers": 49
+  },
+  {
+    "from": "Fribourg",
+    "to": "St. Gallen",
+    "travelers": 290
+  },
+  {
+    "from": "Lucerne",
+    "to": "Lucerne",
+    "travelers": 445726
+  },
+  {
+    "from": "Solothurn",
+    "to": "Ticino",
+    "travelers": 241
+  },
+  {
+    "from": "Aargau",
+    "to": "Uri",
+    "travelers": 443
+  },
+  {
+    "from": "Solothurn",
+    "to": "Zurich",
+    "travelers": 8270
+  },
+  {
+    "from": "Fribourg",
+    "to": "Zurich",
+    "travelers": 2109
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Schaffhausen",
+    "travelers": 66766
+  },
+  {
+    "from": "Aargau",
+    "to": "Schaffhausen",
+    "travelers": 773
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Zurich",
+    "travelers": 847
+  },
+  {
+    "from": "Thurgau",
+    "to": "Ticino",
+    "travelers": 121
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Schwyz",
+    "travelers": 192
+  },
+  {
+    "from": "Undefined",
+    "to": "Fribourg",
+    "travelers": 767
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Lucerne",
+    "travelers": 87
+  },
+  {
+    "from": "Valais",
+    "to": "Nidwalden",
+    "travelers": 51
+  },
+  {
+    "from": "Grisons",
+    "to": "Vaud",
+    "travelers": 83
+  },
+  {
+    "from": "Lucerne",
+    "to": "Bern",
+    "travelers": 16015
+  },
+  {
+    "from": "Valais",
+    "to": "Schwyz",
+    "travelers": 101
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 1680
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Neuchâtel",
+    "travelers": 159
+  },
+  {
+    "from": "Obwalden",
+    "to": "Solothurn",
+    "travelers": 163
+  },
+  {
+    "from": "Zug",
+    "to": "Uri",
+    "travelers": 570
+  },
+  {
+    "from": "Zug",
+    "to": "Zurich",
+    "travelers": 21715
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Basel-Landschaft",
+    "travelers": 30
+  },
+  {
+    "from": "Grisons",
+    "to": "Obwalden",
+    "travelers": 64
+  },
+  {
+    "from": "Uri",
+    "to": "Lucerne",
+    "travelers": 2832
+  },
+  {
+    "from": "Jura",
+    "to": "Lucerne",
+    "travelers": 92
+  },
+  {
+    "from": "Lucerne",
+    "to": "Geneva",
+    "travelers": 486
+  },
+  {
+    "from": "Vaud",
+    "to": "Bern",
+    "travelers": 13018
+  },
+  {
+    "from": "Grisons",
+    "to": "Schaffhausen",
+    "travelers": 140
+  },
+  {
+    "from": "Bern",
+    "to": "Bern",
+    "travelers": 1533719
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Grisons",
+    "travelers": 899
+  },
+  {
+    "from": "Valais",
+    "to": "Vaud",
+    "travelers": 27557
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Thurgau",
+    "travelers": 337
+  },
+  {
+    "from": "Zug",
+    "to": "Basel-Landschaft",
+    "travelers": 201
+  },
+  {
+    "from": "Aargau",
+    "to": "St. Gallen",
+    "travelers": 2569
+  },
+  {
+    "from": "Fribourg",
+    "to": "Valais",
+    "travelers": 2802
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Obwalden",
+    "travelers": 327
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Jura",
+    "travelers": 1160
+  },
+  {
+    "from": "Aargau",
+    "to": "Jura",
+    "travelers": 154
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Zug",
+    "travelers": 913
+  },
+  {
+    "from": "Geneva",
+    "to": "Ticino",
+    "travelers": 194
+  },
+  {
+    "from": "Uri",
+    "to": "Basel-Landschaft",
+    "travelers": 97
+  },
+  {
+    "from": "Ticino",
+    "to": "Ticino",
+    "travelers": 361609
+  },
+  {
+    "from": "Vaud",
+    "to": "Basel-Landschaft",
+    "travelers": 307
+  },
+  {
+    "from": "Thurgau",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 394
+  },
+  {
+    "from": "Ticino",
+    "to": "Vaud",
+    "travelers": 280
+  },
+  {
+    "from": "Thurgau",
+    "to": "Obwalden",
+    "travelers": 44
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "St. Gallen",
+    "travelers": 20734
+  },
+  {
+    "from": "Thurgau",
+    "to": "Geneva",
+    "travelers": 38
+  },
+  {
+    "from": "Lucerne",
+    "to": "Solothurn",
+    "travelers": 5079
+  },
+  {
+    "from": "Undefined",
+    "to": "Ticino",
+    "travelers": 6173
+  },
+  {
+    "from": "Schwyz",
+    "to": "Uri",
+    "travelers": 2541
+  },
+  {
+    "from": "Vaud",
+    "to": "Undefined",
+    "travelers": 1066
+  },
+  {
+    "from": "Zurich",
+    "to": "Uri",
+    "travelers": 1496
+  },
+  {
+    "from": "Lucerne",
+    "to": "Basel-Stadt",
+    "travelers": 4016
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Bern",
+    "travelers": 18635
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Zug",
+    "travelers": 646
+  },
+  {
+    "from": "Uri",
+    "to": "Zurich",
+    "travelers": 1358
+  },
+  {
+    "from": "Ticino",
+    "to": "Fribourg",
+    "travelers": 186
+  },
+  {
+    "from": "Bern",
+    "to": "Schwyz",
+    "travelers": 959
+  },
+  {
+    "from": "Zurich",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 1253
+  },
+  {
+    "from": "Fribourg",
+    "to": "Nidwalden",
+    "travelers": 36
+  },
+  {
+    "from": "Ticino",
+    "to": "St. Gallen",
+    "travelers": 741
+  },
+  {
+    "from": "Grisons",
+    "to": "Grisons",
+    "travelers": 174717
+  },
+  {
+    "from": "Jura",
+    "to": "Undefined",
+    "travelers": 1571
+  },
+  {
+    "from": "Obwalden",
+    "to": "Zug",
+    "travelers": 458
+  },
+  {
+    "from": "Aargau",
+    "to": "Fribourg",
+    "travelers": 765
+  },
+  {
+    "from": "Uri",
+    "to": "Vaud",
+    "travelers": 39
+  },
+  {
+    "from": "Thurgau",
+    "to": "Solothurn",
+    "travelers": 268
+  },
+  {
+    "from": "Zurich",
+    "to": "Fribourg",
+    "travelers": 1995
+  },
+  {
+    "from": "Zurich",
+    "to": "Basel-Stadt",
+    "travelers": 14723
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Jura",
+    "travelers": 31
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Basel-Landschaft",
+    "travelers": 108486
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Schwyz",
+    "travelers": 838
+  },
+  {
+    "from": "Vaud",
+    "to": "St. Gallen",
+    "travelers": 374
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Vaud",
+    "travelers": 84
+  },
+  {
+    "from": "Obwalden",
+    "to": "Grisons",
+    "travelers": 58
+  },
+  {
+    "from": "Vaud",
+    "to": "Valais",
+    "travelers": 26584
+  },
+  {
+    "from": "Schwyz",
+    "to": "Zug",
+    "travelers": 6386
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Bern",
+    "travelers": 667
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Ticino",
+    "travelers": 142
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Zurich",
+    "travelers": 18733
+  },
+  {
+    "from": "Aargau",
+    "to": "Nidwalden",
+    "travelers": 572
+  },
+  {
+    "from": "Grisons",
+    "to": "Uri",
+    "travelers": 463
+  },
+  {
+    "from": "Ticino",
+    "to": "Valais",
+    "travelers": 432
+  },
+  {
+    "from": "Valais",
+    "to": "Lucerne",
+    "travelers": 594
+  },
+  {
+    "from": "Undefined",
+    "to": "Basel-Stadt",
+    "travelers": 177
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Neuchâtel",
+    "travelers": 491
+  },
+  {
+    "from": "Obwalden",
+    "to": "Uri",
+    "travelers": 376
+  },
+  {
+    "from": "Undefined",
+    "to": "Nidwalden",
+    "travelers": 54
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Nidwalden",
+    "travelers": 7368
+  },
+  {
+    "from": "Jura",
+    "to": "Basel-Stadt",
+    "travelers": 1044
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Bern",
+    "travelers": 13100
+  },
+  {
+    "from": "Uri",
+    "to": "Uri",
+    "travelers": 12572
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Basel-Landschaft",
+    "travelers": 101
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Undefined",
+    "travelers": 3579
+  },
+  {
+    "from": "Thurgau",
+    "to": "Schaffhausen",
+    "travelers": 4188
+  },
+  {
+    "from": "Geneva",
+    "to": "Fribourg",
+    "travelers": 2901
+  },
+  {
+    "from": "Undefined",
+    "to": "Thurgau",
+    "travelers": 130
+  },
+  {
+    "from": "Jura",
+    "to": "Ticino",
+    "travelers": 28
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Grisons",
+    "travelers": 178
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Ticino",
+    "travelers": 945
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Zug",
+    "travelers": 27
+  },
+  {
+    "from": "Undefined",
+    "to": "Geneva",
+    "travelers": 73
+  },
+  {
+    "from": "Zug",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 30
+  },
+  {
+    "from": "Schwyz",
+    "to": "Nidwalden",
+    "travelers": 824
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Aargau",
+    "travelers": 975
+  },
+  {
+    "from": "Geneva",
+    "to": "Aargau",
+    "travelers": 249
+  },
+  {
+    "from": "Undefined",
+    "to": "Lucerne",
+    "travelers": 4080
+  },
+  {
+    "from": "Ticino",
+    "to": "Undefined",
+    "travelers": 5602
+  },
+  {
+    "from": "Zurich",
+    "to": "Basel-Landschaft",
+    "travelers": 4482
+  },
+  {
+    "from": "Zurich",
+    "to": "Jura",
+    "travelers": 187
+  },
+  {
+    "from": "Aargau",
+    "to": "Ticino",
+    "travelers": 532
+  },
+  {
+    "from": "Aargau",
+    "to": "Valais",
+    "travelers": 378
+  },
+  {
+    "from": "Aargau",
+    "to": "Zug",
+    "travelers": 5015
+  },
+  {
+    "from": "Grisons",
+    "to": "Neuchâtel",
+    "travelers": 32
+  },
+  {
+    "from": "Undefined",
+    "to": "Uri",
+    "travelers": 143
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Solothurn",
+    "travelers": 778
+  },
+  {
+    "from": "Schwyz",
+    "to": "Zurich",
+    "travelers": 26707
+  },
+  {
+    "from": "Bern",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 108
+  },
+  {
+    "from": "Thurgau",
+    "to": "Lucerne",
+    "travelers": 581
+  },
+  {
+    "from": "Bern",
+    "to": "Obwalden",
+    "travelers": 1644
+  },
+  {
+    "from": "Bern",
+    "to": "Jura",
+    "travelers": 5622
+  },
+  {
+    "from": "Grisons",
+    "to": "Valais",
+    "travelers": 127
+  },
+  {
+    "from": "Geneva",
+    "to": "Basel-Stadt",
+    "travelers": 428
+  },
+  {
+    "from": "Zug",
+    "to": "Undefined",
+    "travelers": 170
+  },
+  {
+    "from": "Zug",
+    "to": "Geneva",
+    "travelers": 59
+  },
+  {
+    "from": "Grisons",
+    "to": "Solothurn",
+    "travelers": 245
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Solothurn",
+    "travelers": 172
+  },
+  {
+    "from": "Uri",
+    "to": "Thurgau",
+    "travelers": 43
+  },
+  {
+    "from": "Grisons",
+    "to": "Fribourg",
+    "travelers": 79
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Grisons",
+    "travelers": 63
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "St. Gallen",
+    "travelers": 76
+  },
+  {
+    "from": "Fribourg",
+    "to": "Bern",
+    "travelers": 40666
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "St. Gallen",
+    "travelers": 1193
+  },
+  {
+    "from": "Aargau",
+    "to": "Bern",
+    "travelers": 13955
+  },
+  {
+    "from": "Zug",
+    "to": "Aargau",
+    "travelers": 4948
+  },
+  {
+    "from": "Zurich",
+    "to": "Schwyz",
+    "travelers": 25857
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Vaud",
+    "travelers": 508
+  },
+  {
+    "from": "Geneva",
+    "to": "Uri",
+    "travelers": 30
+  },
+  {
+    "from": "Valais",
+    "to": "Basel-Stadt",
+    "travelers": 614
+  },
+  {
+    "from": "Vaud",
+    "to": "Neuchâtel",
+    "travelers": 14095
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Undefined",
+    "travelers": 132
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Fribourg",
+    "travelers": 418
+  },
+  {
+    "from": "Obwalden",
+    "to": "Lucerne",
+    "travelers": 8921
+  },
+  {
+    "from": "Zurich",
+    "to": "Nidwalden",
+    "travelers": 1259
+  },
+  {
+    "from": "Lucerne",
+    "to": "Zurich",
+    "travelers": 24619
+  },
+  {
+    "from": "Schwyz",
+    "to": "Geneva",
+    "travelers": 47
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Undefined",
+    "travelers": 52
+  },
+  {
+    "from": "Schwyz",
+    "to": "Undefined",
+    "travelers": 2127
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Zurich",
+    "travelers": 21582
+  },
+  {
+    "from": "Fribourg",
+    "to": "Ticino",
+    "travelers": 167
+  },
+  {
+    "from": "Uri",
+    "to": "St. Gallen",
+    "travelers": 154
+  },
+  {
+    "from": "Ticino",
+    "to": "Thurgau",
+    "travelers": 156
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Vaud",
+    "travelers": 440
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Fribourg",
+    "travelers": 331
+  },
+  {
+    "from": "Vaud",
+    "to": "Schwyz",
+    "travelers": 89
+  },
+  {
+    "from": "Zug",
+    "to": "Schwyz",
+    "travelers": 6399
+  },
+  {
+    "from": "Thurgau",
+    "to": "Fribourg",
+    "travelers": 92
+  },
+  {
+    "from": "Zurich",
+    "to": "Lucerne",
+    "travelers": 24148
+  },
+  {
+    "from": "Valais",
+    "to": "Fribourg",
+    "travelers": 2997
+  },
+  {
+    "from": "St. Gallen",
+    "to": "St. Gallen",
+    "travelers": 389751
+  },
+  {
+    "from": "Obwalden",
+    "to": "Bern",
+    "travelers": 1699
+  },
+  {
+    "from": "Solothurn",
+    "to": "Obwalden",
+    "travelers": 167
+  },
+  {
+    "from": "Solothurn",
+    "to": "Valais",
+    "travelers": 339
+  },
+  {
+    "from": "Aargau",
+    "to": "Thurgau",
+    "travelers": 1114
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Solothurn",
+    "travelers": 165
+  },
+  {
+    "from": "Grisons",
+    "to": "Basel-Landschaft",
+    "travelers": 234
+  },
+  {
+    "from": "Jura",
+    "to": "Aargau",
+    "travelers": 163
+  },
+  {
+    "from": "Bern",
+    "to": "Fribourg",
+    "travelers": 39790
+  },
+  {
+    "from": "Zug",
+    "to": "Schaffhausen",
+    "travelers": 116
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Vaud",
+    "travelers": 1591
+  },
+  {
+    "from": "Grisons",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 101
+  },
+  {
+    "from": "Ticino",
+    "to": "Nidwalden",
+    "travelers": 267
+  },
+  {
+    "from": "Lucerne",
+    "to": "Ticino",
+    "travelers": 1449
+  },
+  {
+    "from": "Zurich",
+    "to": "Bern",
+    "travelers": 27171
+  },
+  {
+    "from": "Geneva",
+    "to": "Lucerne",
+    "travelers": 526
+  },
+  {
+    "from": "Solothurn",
+    "to": "Schwyz",
+    "travelers": 317
+  },
+  {
+    "from": "Undefined",
+    "to": "Grisons",
+    "travelers": 1144
+  },
+  {
+    "from": "Thurgau",
+    "to": "Nidwalden",
+    "travelers": 40
+  },
+  {
+    "from": "Undefined",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 42
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 74
+  },
+  {
+    "from": "Valais",
+    "to": "Zug",
+    "travelers": 74
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Aargau",
+    "travelers": 61
+  },
+  {
+    "from": "Zurich",
+    "to": "Geneva",
+    "travelers": 2353
+  },
+  {
+    "from": "Jura",
+    "to": "Jura",
+    "travelers": 30918
+  },
+  {
+    "from": "Vaud",
+    "to": "Vaud",
+    "travelers": 914296
+  },
+  {
+    "from": "Undefined",
+    "to": "Valais",
+    "travelers": 96
+  },
+  {
+    "from": "Geneva",
+    "to": "Schwyz",
+    "travelers": 49
+  },
+  {
+    "from": "Aargau",
+    "to": "Vaud",
+    "travelers": 729
+  },
+  {
+    "from": "Undefined",
+    "to": "Zug",
+    "travelers": 173
+  },
+  {
+    "from": "Thurgau",
+    "to": "Undefined",
+    "travelers": 136
+  },
+  {
+    "from": "Vaud",
+    "to": "Uri",
+    "travelers": 44
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Schaffhausen",
+    "travelers": 1041
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Neuchâtel",
+    "travelers": 228984
+  },
+  {
+    "from": "Zurich",
+    "to": "Schaffhausen",
+    "travelers": 18542
+  },
+  {
+    "from": "Undefined",
+    "to": "Neuchâtel",
+    "travelers": 3640
+  },
+  {
+    "from": "Schwyz",
+    "to": "Lucerne",
+    "travelers": 10345
+  },
+  {
+    "from": "Bern",
+    "to": "Geneva",
+    "travelers": 3050
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Aargau",
+    "travelers": 564
+  },
+  {
+    "from": "Lucerne",
+    "to": "Uri",
+    "travelers": 2860
+  },
+  {
+    "from": "Aargau",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 60
+  },
+  {
+    "from": "Geneva",
+    "to": "Schaffhausen",
+    "travelers": 33
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Schwyz",
+    "travelers": 236
+  },
+  {
+    "from": "Bern",
+    "to": "Zurich",
+    "travelers": 27944
+  },
+  {
+    "from": "Undefined",
+    "to": "Zurich",
+    "travelers": 4127
+  },
+  {
+    "from": "Fribourg",
+    "to": "Aargau",
+    "travelers": 727
+  },
+  {
+    "from": "Fribourg",
+    "to": "Fribourg",
+    "travelers": 273789
+  },
+  {
+    "from": "Ticino",
+    "to": "Aargau",
+    "travelers": 742
+  },
+  {
+    "from": "Ticino",
+    "to": "Jura",
+    "travelers": 37
+  },
+  {
+    "from": "Zurich",
+    "to": "Valais",
+    "travelers": 1364
+  },
+  {
+    "from": "Fribourg",
+    "to": "Thurgau",
+    "travelers": 82
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Basel-Landschaft",
+    "travelers": 135
+  },
+  {
+    "from": "Lucerne",
+    "to": "Valais",
+    "travelers": 500
+  },
+  {
+    "from": "Bern",
+    "to": "Valais",
+    "travelers": 6897
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Neuchâtel",
+    "travelers": 96
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Bern",
+    "travelers": 4962
+  },
+  {
+    "from": "Nidwalden",
+    "to": "St. Gallen",
+    "travelers": 114
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 31
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Neuchâtel",
+    "travelers": 32
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Lucerne",
+    "travelers": 43
+  },
+  {
+    "from": "Schwyz",
+    "to": "Schwyz",
+    "travelers": 50129
+  },
+  {
+    "from": "Fribourg",
+    "to": "Zug",
+    "travelers": 79
+  },
+  {
+    "from": "Fribourg",
+    "to": "Uri",
+    "travelers": 50
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Zurich",
+    "travelers": 47622
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Nidwalden",
+    "travelers": 144
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Uri",
+    "travelers": 110
+  },
+  {
+    "from": "Solothurn",
+    "to": "Aargau",
+    "travelers": 21584
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Valais",
+    "travelers": 44
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Aargau",
+    "travelers": 13305
+  },
+  {
+    "from": "Uri",
+    "to": "Grisons",
+    "travelers": 452
+  },
+  {
+    "from": "Undefined",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 27
+  },
+  {
+    "from": "Aargau",
+    "to": "Neuchâtel",
+    "travelers": 260
+  },
+  {
+    "from": "Bern",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 41
+  },
+  {
+    "from": "Lucerne",
+    "to": "Obwalden",
+    "travelers": 8845
+  },
+  {
+    "from": "Vaud",
+    "to": "Obwalden",
+    "travelers": 49
+  },
+  {
+    "from": "Grisons",
+    "to": "Thurgau",
+    "travelers": 670
+  },
+  {
+    "from": "Ticino",
+    "to": "Zug",
+    "travelers": 332
+  },
+  {
+    "from": "Lucerne",
+    "to": "Vaud",
+    "travelers": 922
+  },
+  {
+    "from": "Grisons",
+    "to": "Schwyz",
+    "travelers": 933
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Grisons",
+    "travelers": 34
+  },
+  {
+    "from": "Schwyz",
+    "to": "Valais",
+    "travelers": 76
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Valais",
+    "travelers": 48
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Basel-Stadt",
+    "travelers": 99224
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Thurgau",
+    "travelers": 4158
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Bern",
+    "travelers": 2812
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Aargau",
+    "travelers": 2955
+  },
+  {
+    "from": "Schwyz",
+    "to": "Bern",
+    "travelers": 1008
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Zurich",
+    "travelers": 4925
+  },
+  {
+    "from": "Fribourg",
+    "to": "Obwalden",
+    "travelers": 45
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Uri",
+    "travelers": 252
+  },
+  {
+    "from": "Bern",
+    "to": "Vaud",
+    "travelers": 12528
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Grisons",
+    "travelers": 204
+  },
+  {
+    "from": "Schwyz",
+    "to": "St. Gallen",
+    "travelers": 8069
+  },
+  {
+    "from": "Thurgau",
+    "to": "Zurich",
+    "travelers": 29039
+  },
+  {
+    "from": "Lucerne",
+    "to": "Nidwalden",
+    "travelers": 13269
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Obwalden",
+    "travelers": 143
+  },
+  {
+    "from": "Thurgau",
+    "to": "Neuchâtel",
+    "travelers": 32
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Basel-Landschaft",
+    "travelers": 529
+  },
+  {
+    "from": "Zug",
+    "to": "Fribourg",
+    "travelers": 84
+  },
+  {
+    "from": "Valais",
+    "to": "Geneva",
+    "travelers": 3339
+  },
+  {
+    "from": "Aargau",
+    "to": "Basel-Landschaft",
+    "travelers": 13075
+  },
+  {
+    "from": "Bern",
+    "to": "Thurgau",
+    "travelers": 943
+  },
+  {
+    "from": "Aargau",
+    "to": "Schwyz",
+    "travelers": 2121
+  },
+  {
+    "from": "Uri",
+    "to": "Zug",
+    "travelers": 556
+  },
+  {
+    "from": "Solothurn",
+    "to": "Grisons",
+    "travelers": 235
+  },
+  {
+    "from": "Fribourg",
+    "to": "Neuchâtel",
+    "travelers": 5564
+  },
+  {
+    "from": "Vaud",
+    "to": "Zurich",
+    "travelers": 3026
+  },
+  {
+    "from": "Bern",
+    "to": "Grisons",
+    "travelers": 942
+  },
+  {
+    "from": "Solothurn",
+    "to": "Solothurn",
+    "travelers": 115023
+  },
+  {
+    "from": "Uri",
+    "to": "Bern",
+    "travelers": 530
+  },
+  {
+    "from": "Vaud",
+    "to": "Schaffhausen",
+    "travelers": 50
+  },
+  {
+    "from": "Vaud",
+    "to": "Lucerne",
+    "travelers": 929
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Solothurn",
+    "travelers": 31
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Nidwalden",
+    "travelers": 124
+  },
+  {
+    "from": "Lucerne",
+    "to": "Aargau",
+    "travelers": 20320
+  },
+  {
+    "from": "Zug",
+    "to": "Ticino",
+    "travelers": 247
+  },
+  {
+    "from": "Solothurn",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 25
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Vaud",
+    "travelers": 13849
+  },
+  {
+    "from": "Undefined",
+    "to": "St. Gallen",
+    "travelers": 4171
+  },
+  {
+    "from": "Vaud",
+    "to": "Nidwalden",
+    "travelers": 38
+  },
+  {
+    "from": "Zug",
+    "to": "Valais",
+    "travelers": 62
+  },
+  {
+    "from": "Grisons",
+    "to": "Bern",
+    "travelers": 975
+  },
+  {
+    "from": "Ticino",
+    "to": "Zurich",
+    "travelers": 4213
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Schwyz",
+    "travelers": 42
+  },
+  {
+    "from": "Valais",
+    "to": "Zurich",
+    "travelers": 1419
+  },
+  {
+    "from": "Zurich",
+    "to": "Aargau",
+    "travelers": 77682
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Obwalden",
+    "travelers": 3947
+  },
+  {
+    "from": "Aargau",
+    "to": "Aargau",
+    "travelers": 287037
+  },
+  {
+    "from": "Undefined",
+    "to": "Obwalden",
+    "travelers": 50
+  },
+  {
+    "from": "Thurgau",
+    "to": "St. Gallen",
+    "travelers": 33322
+  },
+  {
+    "from": "Lucerne",
+    "to": "Schaffhausen",
+    "travelers": 278
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Nidwalden",
+    "travelers": 283
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Basel-Stadt",
+    "travelers": 308
+  },
+  {
+    "from": "Geneva",
+    "to": "Thurgau",
+    "travelers": 40
+  },
+  {
+    "from": "Bern",
+    "to": "Nidwalden",
+    "travelers": 662
+  },
+  {
+    "from": "Schwyz",
+    "to": "Schaffhausen",
+    "travelers": 119
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Zug",
+    "travelers": 684
+  },
+  {
+    "from": "Thurgau",
+    "to": "Uri",
+    "travelers": 52
+  },
+  {
+    "from": "Bern",
+    "to": "Solothurn",
+    "travelers": 41074
+  },
+  {
+    "from": "Lucerne",
+    "to": "Undefined",
+    "travelers": 3949
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Zurich",
+    "travelers": 1258
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Thurgau",
+    "travelers": 1456
+  },
+  {
+    "from": "Zurich",
+    "to": "Obwalden",
+    "travelers": 1281
+  },
+  {
+    "from": "Geneva",
+    "to": "Geneva",
+    "travelers": 869659
+  },
+  {
+    "from": "Schwyz",
+    "to": "Ticino",
+    "travelers": 431
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Ticino",
+    "travelers": 39
+  },
+  {
+    "from": "Lucerne",
+    "to": "Thurgau",
+    "travelers": 537
+  },
+  {
+    "from": "Jura",
+    "to": "Vaud",
+    "travelers": 676
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Obwalden",
+    "travelers": 54
+  },
+  {
+    "from": "Solothurn",
+    "to": "Basel-Stadt",
+    "travelers": 11663
+  },
+  {
+    "from": "Jura",
+    "to": "Geneva",
+    "travelers": 151
+  },
+  {
+    "from": "Valais",
+    "to": "Aargau",
+    "travelers": 436
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Lucerne",
+    "travelers": 1996
+  },
+  {
+    "from": "Solothurn",
+    "to": "Undefined",
+    "travelers": 177
+  },
+  {
+    "from": "Schwyz",
+    "to": "Aargau",
+    "travelers": 2038
+  },
+  {
+    "from": "Obwalden",
+    "to": "Obwalden",
+    "travelers": 7447
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Undefined",
+    "travelers": 44
+  },
+  {
+    "from": "Valais",
+    "to": "Bern",
+    "travelers": 7237
+  },
+  {
+    "from": "Fribourg",
+    "to": "Undefined",
+    "travelers": 750
+  },
+  {
+    "from": "Thurgau",
+    "to": "Basel-Stadt",
+    "travelers": 302
+  },
+  {
+    "from": "Grisons",
+    "to": "Ticino",
+    "travelers": 3908
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Lucerne",
+    "travelers": 497
+  },
+  {
+    "from": "Zug",
+    "to": "Grisons",
+    "travelers": 354
+  },
+  {
+    "from": "Solothurn",
+    "to": "Thurgau",
+    "travelers": 251
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Solothurn",
+    "travelers": 530
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Grisons",
+    "travelers": 240
+  },
+  {
+    "from": "Zurich",
+    "to": "Ticino",
+    "travelers": 3157
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Nidwalden",
+    "travelers": 23
+  },
+  {
+    "from": "Ticino",
+    "to": "Uri",
+    "travelers": 1489
+  },
+  {
+    "from": "Zug",
+    "to": "Lucerne",
+    "travelers": 15878
+  },
+  {
+    "from": "Aargau",
+    "to": "Grisons",
+    "travelers": 1049
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Solothurn",
+    "travelers": 13770
+  },
+  {
+    "from": "Vaud",
+    "to": "Jura",
+    "travelers": 644
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 28
+  },
+  {
+    "from": "Obwalden",
+    "to": "Basel-Landschaft",
+    "travelers": 109
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Nidwalden",
+    "travelers": 42
+  },
+  {
+    "from": "Vaud",
+    "to": "Aargau",
+    "travelers": 691
+  },
+  {
+    "from": "Ticino",
+    "to": "Grisons",
+    "travelers": 4654
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Schaffhausen",
+    "travelers": 62
+  },
+  {
+    "from": "Thurgau",
+    "to": "Valais",
+    "travelers": 140
+  },
+  {
+    "from": "Solothurn",
+    "to": "Basel-Landschaft",
+    "travelers": 13089
+  },
+  {
+    "from": "Undefined",
+    "to": "Aargau",
+    "travelers": 536
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Obwalden",
+    "travelers": 162
+  },
+  {
+    "from": "Schwyz",
+    "to": "Solothurn",
+    "travelers": 318
+  },
+  {
+    "from": "Valais",
+    "to": "Grisons",
+    "travelers": 135
+  },
+  {
+    "from": "Fribourg",
+    "to": "Schaffhausen",
+    "travelers": 42
+  },
+  {
+    "from": "Obwalden",
+    "to": "Aargau",
+    "travelers": 553
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Grisons",
+    "travelers": 91
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Fribourg",
+    "travelers": 38
+  },
+  {
+    "from": "Zurich",
+    "to": "Thurgau",
+    "travelers": 27450
+  },
+  {
+    "from": "Schwyz",
+    "to": "Thurgau",
+    "travelers": 323
+  },
+  {
+    "from": "Jura",
+    "to": "Solothurn",
+    "travelers": 471
+  },
+  {
+    "from": "Ticino",
+    "to": "Lucerne",
+    "travelers": 2423
+  },
+  {
+    "from": "Schwyz",
+    "to": "Fribourg",
+    "travelers": 89
+  },
+  {
+    "from": "Solothurn",
+    "to": "Vaud",
+    "travelers": 786
+  },
+  {
+    "from": "Valais",
+    "to": "Basel-Landschaft",
+    "travelers": 235
+  },
+  {
+    "from": "Zurich",
+    "to": "Solothurn",
+    "travelers": 7873
+  },
+  {
+    "from": "Ticino",
+    "to": "Obwalden",
+    "travelers": 171
+  },
+  {
+    "from": "Schwyz",
+    "to": "Grisons",
+    "travelers": 923
+  },
+  {
+    "from": "Valais",
+    "to": "Ticino",
+    "travelers": 412
+  },
+  {
+    "from": "Lucerne",
+    "to": "Jura",
+    "travelers": 87
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Undefined",
+    "travelers": 230
+  },
+  {
+    "from": "Uri",
+    "to": "Neuchâtel",
+    "travelers": 31
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Undefined",
+    "travelers": 4203
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Uri",
+    "travelers": 205
+  },
+  {
+    "from": "Zug",
+    "to": "Nidwalden",
+    "travelers": 672
+  },
+  {
+    "from": "Lucerne",
+    "to": "St. Gallen",
+    "travelers": 1747
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 1210
+  },
+  {
+    "from": "Valais",
+    "to": "Neuchâtel",
+    "travelers": 775
+  },
+  {
+    "from": "Geneva",
+    "to": "Grisons",
+    "travelers": 49
+  },
+  {
+    "from": "Fribourg",
+    "to": "Schwyz",
+    "travelers": 88
+  },
+  {
+    "from": "Valais",
+    "to": "Jura",
+    "travelers": 117
+  },
+  {
+    "from": "Geneva",
+    "to": "Zug",
+    "travelers": 67
+  },
+  {
+    "from": "Geneva",
+    "to": "St. Gallen",
+    "travelers": 248
+  },
+  {
+    "from": "Undefined",
+    "to": "Jura",
+    "travelers": 1818
+  },
+  {
+    "from": "Schwyz",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 41
+  },
+  {
+    "from": "Zurich",
+    "to": "Grisons",
+    "travelers": 8975
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Ticino",
+    "travelers": 306
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Jura",
+    "travelers": 817
+  },
+  {
+    "from": "Solothurn",
+    "to": "Bern",
+    "travelers": 41471
+  },
+  {
+    "from": "Valais",
+    "to": "Obwalden",
+    "travelers": 69
+  },
+  {
+    "from": "Valais",
+    "to": "Undefined",
+    "travelers": 109
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Geneva",
+    "travelers": 722
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Bern",
+    "travelers": 42
+  },
+  {
+    "from": "Schwyz",
+    "to": "Basel-Stadt",
+    "travelers": 371
+  },
+  {
+    "from": "Uri",
+    "to": "Schaffhausen",
+    "travelers": 36
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Solothurn",
+    "travelers": 12596
+  },
+  {
+    "from": "Valais",
+    "to": "Uri",
+    "travelers": 410
+  },
+  {
+    "from": "Undefined",
+    "to": "Undefined",
+    "travelers": 14369
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Uri",
+    "travelers": 1239
+  },
+  {
+    "from": "Solothurn",
+    "to": "Lucerne",
+    "travelers": 5075
+  },
+  {
+    "from": "Solothurn",
+    "to": "Nidwalden",
+    "travelers": 159
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Basel-Stadt",
+    "travelers": 471684
+  },
+  {
+    "from": "Solothurn",
+    "to": "Jura",
+    "travelers": 466
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Ticino",
+    "travelers": 687
+  },
+  {
+    "from": "Ticino",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 47
+  },
+  {
+    "from": "Zug",
+    "to": "Basel-Stadt",
+    "travelers": 476
+  },
+  {
+    "from": "Vaud",
+    "to": "Thurgau",
+    "travelers": 84
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Vaud",
+    "travelers": 38
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 6597
+  },
+  {
+    "from": "Thurgau",
+    "to": "Zug",
+    "travelers": 193
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Undefined",
+    "travelers": 28
+  },
+  {
+    "from": "Schwyz",
+    "to": "Neuchâtel",
+    "travelers": 31
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Aargau",
+    "travelers": 19252
+  },
+  {
+    "from": "Solothurn",
+    "to": "Neuchâtel",
+    "travelers": 547
+  },
+  {
+    "from": "Thurgau",
+    "to": "Bern",
+    "travelers": 1039
+  },
+  {
+    "from": "Solothurn",
+    "to": "Uri",
+    "travelers": 139
+  },
+  {
+    "from": "Jura",
+    "to": "St. Gallen",
+    "travelers": 31
+  },
+  {
+    "from": "Obwalden",
+    "to": "Vaud",
+    "travelers": 50
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Thurgau",
+    "travelers": 37
+  },
+  {
+    "from": "Zurich",
+    "to": "Zurich",
+    "travelers": 2278893
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Fribourg",
+    "travelers": 5529
+  },
+  {
+    "from": "Obwalden",
+    "to": "Ticino",
+    "travelers": 91
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Valais",
+    "travelers": 286
+  },
+  {
+    "from": "Bern",
+    "to": "Ticino",
+    "travelers": 956
+  },
+  {
+    "from": "Undefined",
+    "to": "Schaffhausen",
+    "travelers": 45
+  },
+  {
+    "from": "Uri",
+    "to": "Aargau",
+    "travelers": 383
+  },
+  {
+    "from": "Thurgau",
+    "to": "Schwyz",
+    "travelers": 329
+  },
+  {
+    "from": "Zug",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 29
+  },
+  {
+    "from": "Fribourg",
+    "to": "Solothurn",
+    "travelers": 911
+  },
+  {
+    "from": "Geneva",
+    "to": "Basel-Landschaft",
+    "travelers": 100
+  },
+  {
+    "from": "Obwalden",
+    "to": "Nidwalden",
+    "travelers": 3998
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Basel-Stadt",
+    "travelers": 149
+  },
+  {
+    "from": "Grisons",
+    "to": "Lucerne",
+    "travelers": 869
+  },
+  {
+    "from": "Geneva",
+    "to": "Obwalden",
+    "travelers": 33
+  },
+  {
+    "from": "Schwyz",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 84
+  },
+  {
+    "from": "Bern",
+    "to": "Uri",
+    "travelers": 552
+  },
+  {
+    "from": "Grisons",
+    "to": "Aargau",
+    "travelers": 1073
+  },
+  {
+    "from": "Bern",
+    "to": "St. Gallen",
+    "travelers": 2341
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Uri",
+    "travelers": 730
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Lucerne",
+    "travelers": 201
+  },
+  {
+    "from": "Lucerne",
+    "to": "Basel-Landschaft",
+    "travelers": 1713
+  },
+  {
+    "from": "Fribourg",
+    "to": "Jura",
+    "travelers": 284
+  },
+  {
+    "from": "Obwalden",
+    "to": "Schaffhausen",
+    "travelers": 33
+  },
+  {
+    "from": "Zug",
+    "to": "Obwalden",
+    "travelers": 478
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "St. Gallen",
+    "travelers": 5080
+  },
+  {
+    "from": "Bern",
+    "to": "Undefined",
+    "travelers": 892
+  },
+  {
+    "from": "Uri",
+    "to": "Ticino",
+    "travelers": 1394
+  },
+  {
+    "from": "Schwyz",
+    "to": "Vaud",
+    "travelers": 91
+  },
+  {
+    "from": "Aargau",
+    "to": "Basel-Stadt",
+    "travelers": 18091
+  },
+  {
+    "from": "Jura",
+    "to": "Zug",
+    "travelers": 25
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Zug",
+    "travelers": 27
+  },
+  {
+    "from": "Bern",
+    "to": "Schaffhausen",
+    "travelers": 402
+  },
+  {
+    "from": "Bern",
+    "to": "Lucerne",
+    "travelers": 15692
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 48
+  },
+  {
+    "from": "Obwalden",
+    "to": "Valais",
+    "travelers": 71
+  },
+  {
+    "from": "Fribourg",
+    "to": "Grisons",
+    "travelers": 76
+  },
+  {
+    "from": "Zug",
+    "to": "Neuchâtel",
+    "travelers": 32
+  },
+  {
+    "from": "Undefined",
+    "to": "Solothurn",
+    "travelers": 184
+  },
+  {
+    "from": "Geneva",
+    "to": "Jura",
+    "travelers": 151
+  },
+  {
+    "from": "Solothurn",
+    "to": "Fribourg",
+    "travelers": 909
+  },
+  {
+    "from": "Vaud",
+    "to": "Basel-Stadt",
+    "travelers": 760
+  },
+  {
+    "from": "Lucerne",
+    "to": "Grisons",
+    "travelers": 803
+  },
+  {
+    "from": "Thurgau",
+    "to": "Aargau",
+    "travelers": 1140
+  },
+  {
+    "from": "Valais",
+    "to": "Solothurn",
+    "travelers": 391
+  },
+  {
+    "from": "Geneva",
+    "to": "Zurich",
+    "travelers": 2505
+  },
+  {
+    "from": "Uri",
+    "to": "Undefined",
+    "travelers": 133
+  },
+  {
+    "from": "Valais",
+    "to": "St. Gallen",
+    "travelers": 135
+  },
+  {
+    "from": "Grisons",
+    "to": "Undefined",
+    "travelers": 1053
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 20725
+  },
+  {
+    "from": "Zug",
+    "to": "Bern",
+    "travelers": 1045
+  },
+  {
+    "from": "Grisons",
+    "to": "Nidwalden",
+    "travelers": 70
+  },
+  {
+    "from": "Grisons",
+    "to": "Zurich",
+    "travelers": 9294
+  },
+  {
+    "from": "Bern",
+    "to": "Aargau",
+    "travelers": 13394
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Basel-Stadt",
+    "travelers": 361
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Basel-Stadt",
+    "travelers": 1216
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Bern",
+    "travelers": 109
+  },
+  {
+    "from": "Jura",
+    "to": "Bern",
+    "travelers": 6073
+  },
+  {
+    "from": "Zurich",
+    "to": "Undefined",
+    "travelers": 3961
+  },
+  {
+    "from": "Ticino",
+    "to": "Schaffhausen",
+    "travelers": 75
+  },
+  {
+    "from": "Vaud",
+    "to": "Solothurn",
+    "travelers": 748
+  },
+  {
+    "from": "Vaud",
+    "to": "Fribourg",
+    "travelers": 41105
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Zug",
+    "travelers": 180
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Schwyz",
+    "travelers": 8323
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Geneva",
+    "travelers": 246
+  },
+  {
+    "from": "Bern",
+    "to": "Basel-Stadt",
+    "travelers": 9438
+  },
+  {
+    "from": "Fribourg",
+    "to": "Basel-Landschaft",
+    "travelers": 322
+  },
+  {
+    "from": "Grisons",
+    "to": "St. Gallen",
+    "travelers": 13464
+  },
+  {
+    "from": "Grisons",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 218
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Valais",
+    "travelers": 758
+  },
+  {
+    "from": "Ticino",
+    "to": "Neuchâtel",
+    "travelers": 95
+  },
+  {
+    "from": "Solothurn",
+    "to": "Schaffhausen",
+    "travelers": 119
+  },
+  {
+    "from": "Thurgau",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 1509
+  },
+  {
+    "from": "Solothurn",
+    "to": "St. Gallen",
+    "travelers": 639
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Schwyz",
+    "travelers": 30
+  },
+  {
+    "from": "Valais",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 26
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Schwyz",
+    "travelers": 527
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Fribourg",
+    "travelers": 67
+  },
+  {
+    "from": "Obwalden",
+    "to": "Schwyz",
+    "travelers": 335
+  },
+  {
+    "from": "Undefined",
+    "to": "Basel-Landschaft",
+    "travelers": 126
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Thurgau",
+    "travelers": 381
+  },
+  {
+    "from": "Ticino",
+    "to": "Bern",
+    "travelers": 1263
+  },
+  {
+    "from": "Basel-Stadt",
+    "to": "Basel-Landschaft",
+    "travelers": 101731
+  },
+  {
+    "from": "Lucerne",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 41
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Thurgau",
+    "travelers": 32
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Schwyz",
+    "travelers": 87
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Jura",
+    "travelers": 2852
+  },
+  {
+    "from": "Fribourg",
+    "to": "Geneva",
+    "travelers": 2821
+  },
+  {
+    "from": "Geneva",
+    "to": "Solothurn",
+    "travelers": 219
+  },
+  {
+    "from": "Uri",
+    "to": "Geneva",
+    "travelers": 27
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Grisons",
+    "travelers": 14352
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Fribourg",
+    "travelers": 28
+  },
+  {
+    "from": "Uri",
+    "to": "Solothurn",
+    "travelers": 123
+  },
+  {
+    "from": "Solothurn",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 29
+  },
+  {
+    "from": "Jura",
+    "to": "Schwyz",
+    "travelers": 26
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Aargau",
+    "travelers": 121
+  },
+  {
+    "from": "Schwyz",
+    "to": "Basel-Landschaft",
+    "travelers": 219
+  },
+  {
+    "from": "Aargau",
+    "to": "Undefined",
+    "travelers": 542
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "St. Gallen",
+    "travelers": 436
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Uri",
+    "travelers": 41
+  },
+  {
+    "from": "Grisons",
+    "to": "Jura",
+    "travelers": 29
+  },
+  {
+    "from": "Obwalden",
+    "to": "Zurich",
+    "travelers": 1160
+  },
+  {
+    "from": "Aargau",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 123
+  },
+  {
+    "from": "St. Gallen",
+    "to": "Lucerne",
+    "travelers": 2289
+  },
+  {
+    "from": "Jura",
+    "to": "Valais",
+    "travelers": 117
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 1714
+  },
+  {
+    "from": "Grisons",
+    "to": "Basel-Stadt",
+    "travelers": 609
+  },
+  {
+    "from": "Thurgau",
+    "to": "Jura",
+    "travelers": 28
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Neuchâtel",
+    "travelers": 24
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Nidwalden",
+    "travelers": 26
+  },
+  {
+    "from": "Jura",
+    "to": "Uri",
+    "travelers": 33
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Obwalden",
+    "travelers": 25
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Schaffhausen",
+    "travelers": 28
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Geneva",
+    "travelers": 25
+  },
+  {
+    "from": "Obwalden",
+    "to": "Neuchâtel",
+    "travelers": 26
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Uri",
+    "travelers": 27
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Solothurn",
+    "travelers": 25
+  },
+  {
+    "from": "Geneva",
+    "to": "Nidwalden",
+    "travelers": 27
+  },
+  {
+    "from": "Fribourg",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 25
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Schaffhausen",
+    "travelers": 46
+  },
+  {
+    "from": "Basel-Landschaft",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 29
+  },
+  {
+    "from": "Jura",
+    "to": "Grisons",
+    "travelers": 28
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Basel-Stadt",
+    "travelers": 28
+  },
+  {
+    "from": "Schaffhausen",
+    "to": "Jura",
+    "travelers": 22
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Schaffhausen",
+    "travelers": 37
+  },
+  {
+    "from": "Jura",
+    "to": "Thurgau",
+    "travelers": 32
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 24
+  },
+  {
+    "from": "Uri",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 31
+  },
+  {
+    "from": "Schwyz",
+    "to": "Jura",
+    "travelers": 24
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Vaud",
+    "travelers": 29
+  },
+  {
+    "from": "Vaud",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 28
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Vaud",
+    "travelers": 33
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Valais",
+    "travelers": 21
+  },
+  {
+    "from": "Zug",
+    "to": "Jura",
+    "travelers": 29
+  },
+  {
+    "from": "Uri",
+    "to": "Jura",
+    "travelers": 28
+  },
+  {
+    "from": "Vaud",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 27
+  },
+  {
+    "from": "Jura",
+    "to": "Nidwalden",
+    "travelers": 21
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Obwalden",
+    "travelers": 34
+  },
+  {
+    "from": "Geneva",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 22
+  },
+  {
+    "from": "Obwalden",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 25
+  },
+  {
+    "from": "Obwalden",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 41
+  },
+  {
+    "from": "Jura",
+    "to": "Obwalden",
+    "travelers": 21
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Obwalden",
+    "travelers": 23
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Fribourg",
+    "travelers": 22
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Uri",
+    "travelers": 33
+  },
+  {
+    "from": "Appenzell Innerrhoden",
+    "to": "Nidwalden",
+    "travelers": 42
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 24
+  },
+  {
+    "from": "Valais",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 26
+  },
+  {
+    "from": "Nidwalden",
+    "to": "Jura",
+    "travelers": 28
+  },
+  {
+    "from": "Appenzell Ausserrhoden",
+    "to": "Valais",
+    "travelers": 28
+  },
+  {
+    "from": "Fribourg",
+    "to": "Appenzell Innerrhoden",
+    "travelers": 23
+  },
+  {
+    "from": "Neuchâtel",
+    "to": "Appenzell Ausserrhoden",
+    "travelers": 20
+  }
+]
